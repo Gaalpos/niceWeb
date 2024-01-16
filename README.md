@@ -1,4 +1,4 @@
-# niceWeb
+# NiceWeb
 Task T4.1 of interface development
 
 Partiendo de lo visto hasta el momento referente a UX, UI, accesibilidad e inclusividad crea una web sencilla para escritorio  y móvil (responsive) que siga dichos principios. 
