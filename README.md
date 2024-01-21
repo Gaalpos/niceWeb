@@ -1,22 +1,30 @@
-# NiceWeb
-Task T4.1 of interface development
+# Task T4.1 - Responsive web
 
-Partiendo de lo visto hasta el momento referente a UX, UI, accesibilidad e inclusividad crea una web sencilla para escritorio  y móvil (responsive) que siga dichos principios. 
+This is a responsive web made with Bootsrap and JS
+
+You can see the Figma mockup  [here](https://www.figma.com/file/AnU8UYQMIDdgaxrcn7gZfH/T4.1-Pazos%2C-Gabriel?type=design&node-id=0%3A1&mode=design&t=QzAojjQqgA4l60hs-1)
+
+
+
+
+
+
+
 
 
 REQUERIMIENTOS MÍNIMOS
 
-- Documento en Figma (crea un diseño nuevo, aunque puedes partir del ya realizado). 
+- [ ] Documento en Figma (crea un diseño nuevo, aunque puedes partir del ya realizado). 
 Asegúrate que las resoluciones son adecuadas para cada uno de las versiones
-- Barra de navegación en desktop. En móvil puedes usar menu hamburguesa 
-- Uso de imágenes (externas y/o locales a tu convenir)
-- No debe contener errores de accesibilidad (usa la extension wave.webaim de chrome o firefox en local para comprobarlo)
+- [ ] Barra de navegación en desktop. En móvil puedes usar menu hamburguesa 
+- [ ] Uso de imágenes (externas y/o locales a tu convenir)
+- [ ] No debe contener errores de accesibilidad (usa la extension wave.webaim de chrome o firefox en local para comprobarlo)
 https://wave.webaim.org/extension/
-- Debe usar al menos tres “leyes” de UX
-- Utiliza import y export de código js 
-- Utiliza al menos una función arrow =>
-- Utiliza al menos un objeto
-- Crea Navigation links. Utiliza <nav> (home, contact, about)
+- [ ] Debe usar al menos tres “leyes” de UX
+- [ ] Utiliza import y export de código js 
+- [ ] Utiliza al menos una función arrow =>
+- [ ] Utiliza al menos un objeto
+- [ ] Crea Navigation links. Utiliza <nav> (home, contact, about)
 
 GUÍA DE ESTILO 
 🚨ver archivo U3.1 Guía de estilo js🚨
