@@ -1,7 +1,7 @@
 
 import { elementos } from "./elementos.js";
 
-const generarHTML = ({ name, partes, img }) => `
+const generarHTML = ({ name, items, img }) => `
     <div class="col col-sm-12 col-md-6 col-lg-4">
         <div class="card shadow-sm">
             <img class="bd-placeholder-img card-img-top" width="1280px" height="auto" style="border-radius: 15px;
@@ -9,8 +9,8 @@ const generarHTML = ({ name, partes, img }) => `
                 focusable="false" src="assets/imgs/${img}">
             <div class="card-body">
                 <p class="card-text">
-                    <h3>${name}</h3>
-                    <p>${partes}</p>
+                    <h3><strong>${name}</strong></h3>
+                    <p>${items}</p>
                 </p>
             </div>
         </div>

@@ -4,8 +4,15 @@ This is a responsive web made with Bootsrap and JS
 
 You can see the Figma mockup  [here](https://www.figma.com/file/AnU8UYQMIDdgaxrcn7gZfH/T4.1-Pazos%2C-Gabriel?type=design&node-id=0%3A1&mode=design&t=QzAojjQqgA4l60hs-1)
 
+Live web : https://gaalpos.github.io/niceWeb/
 
 
+- NavBar on desktob and hamburger menu for narrower screens.
+- Images on the "Setup" section
+- No accesibility errors (WAVE marks one empty button as an error. However it is needed for the navbar to collapse into an hamburger menu when needed) 
+- Export used in "elementos.js" to export the objects for "main.js" to import those objects and create the html needed
+- Arrow function used in "main.js" on const generarHTML
+- Objects are in "elementos.js"
 
 
 
@@ -14,17 +21,17 @@ You can see the Figma mockup  [here](https://www.figma.com/file/AnU8UYQMIDdgaxrc
 
 REQUERIMIENTOS MÍNIMOS
 
-- [ ] Documento en Figma (crea un diseño nuevo, aunque puedes partir del ya realizado). 
+- [X] Documento en Figma (crea un diseño nuevo, aunque puedes partir del ya realizado). 
 Asegúrate que las resoluciones son adecuadas para cada uno de las versiones
-- [ ] Barra de navegación en desktop. En móvil puedes usar menu hamburguesa 
-- [ ] Uso de imágenes (externas y/o locales a tu convenir)
-- [ ] No debe contener errores de accesibilidad (usa la extension wave.webaim de chrome o firefox en local para comprobarlo)
+- [X] Barra de navegación en desktop. En móvil puedes usar menu hamburguesa 
+- [X] Uso de imágenes (externas y/o locales a tu convenir)
+- [X] No debe contener errores de accesibilidad (usa la extension wave.webaim de chrome o firefox en local para comprobarlo)
 https://wave.webaim.org/extension/
 - [ ] Debe usar al menos tres “leyes” de UX
-- [ ] Utiliza import y export de código js 
-- [ ] Utiliza al menos una función arrow =>
-- [ ] Utiliza al menos un objeto
-- [ ] Crea Navigation links. Utiliza <nav> (home, contact, about)
+- [X] Utiliza import y export de código js 
+- [X] Utiliza al menos una función arrow =>
+- [X] Utiliza al menos un objeto
+- [X] Crea Navigation links. Utiliza <nav> (home, contact, about)
 
 GUÍA DE ESTILO 
 🚨ver archivo U3.1 Guía de estilo js🚨
