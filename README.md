@@ -18,11 +18,12 @@ Live web : https://gaalpos.github.io/niceWeb/
 ##  Laws of UX used on this project
 
 ### Aesthetic-Usability Effect
-    Users often perceive aesthetically pleasing design as design that’s more usable.
+- Users often perceive aesthetically pleasing design as design that’s more usable.
+
 My web is designed with simplicity on mind, without a huge variety of colors or elements. This helps overwhelm the user. 
 
 ### Jakob’s Law
-    Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.
+- Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.
 
 We have a few desing choices that follow this idea. Look at this image:
 
@@ -43,7 +44,7 @@ Other elements like account, search or web sections are often in the right. It's
 ![Image](assets/other/Screenshot_1.jpg)
 
 ### Law of Common Region
-    Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.
+- Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.
 
 In the home page there are two areas well defined, even without using any type of additional elemtents to divide those areas.
 
