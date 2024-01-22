@@ -5,7 +5,7 @@ const generarHTML = ({ name, items, img }) => `
     <div class="col col-sm-12 col-md-6 col-lg-4">
         <div class="card shadow-sm">
             <img class="bd-placeholder-img card-img-top" width="1280px" height="auto" style="border-radius: 15px;
-                xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice"
+                xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" alt="${name}"
                 focusable="false" src="assets/imgs/${img}">
             <div class="card-body">
                 <p class="card-text">
