@@ -34,7 +34,7 @@ export const elementos = [
     },
     {
         name: "Ergonomic mouse",
-        items: 'Razer Vipir Mini ',
+        items: 'Trust Ergo Vertical ',
         img: "ergomouse.jpg"
     },
 ]
