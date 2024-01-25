@@ -1,5 +1,7 @@
 # Task T4.1 - Responsive web
 
+UPDATE: this is a rework of [myWeb](https://github.com/Gaalpos/myWeb), but myWeb has adopted all the updates from here so from now myWeb will be the only web to be developed.
+
 This is a responsive web made with Bootsrap and JS
 
 You can see the Figma mockup  [here](https://www.figma.com/file/AnU8UYQMIDdgaxrcn7gZfH/T4.1-Pazos%2C-Gabriel?type=design&node-id=0%3A1&mode=design&t=QzAojjQqgA4l60hs-1)
